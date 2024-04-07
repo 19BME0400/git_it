@@ -1,0 +1,12 @@
+[1mdiff --git a/phone.txt b/phone.txt[m
+[1mindex cd222a4..ba97110 100644[m
+[1m--- a/phone.txt[m
+[1m+++ b/phone.txt[m
+[36m@@ -1 +1,4 @@[m
+[31m-phone[m
+\ No newline at end of file[m
+[32m+[m[32mphone[m
+[32m+[m
+[32m+[m[32mtouchscreen[m
+[32m+[m[32mscratchless-gorilla glass[m
+\ No newline at end of file[m
