@@ -1,1 +1,1 @@
-add apps list
+fav_movie
